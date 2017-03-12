@@ -1,6 +1,8 @@
 # Applied Machine Learning
 
-This repository contains machine learning notebooks from my website [appliedprogramming.net](http://www.appliedprogramming.net/machine-learning/home.html). The examples in the repo contain the explantory theory about the different algorithms used and the necessary preprocessing steps to clean, visualize and analyse the data. The datasets for the examples are taken from the [UCI Machine Learning repository](archive.ics.uci.edu/ml/). 
+This repository contains machine learning notebooks from my website [appliedprogramming.net](http://www.appliedprogramming.net/machine-learning/home.html). The examples in the repo contain the explantory theory about the different algorithms used and the necessary preprocessing steps to clean, visualize and analyse the data. The datasets for most of the examples are taken from the [UCI Machine Learning repository](archive.ics.uci.edu/ml/). 
+
+<hr>
 
 | Deep Learning using TensorFlow | 
 |--------------------------------|
@@ -9,11 +11,15 @@ This repository contains machine learning notebooks from my website [appliedprog
 |[Speech Recognition of Digits](http://www.appliedprogramming.net/machine-learning/speechrecognition.html)|
 |[One Shot Learning to Classify Omniglot data](http://www.appliedprogramming.net/machine-learning/one-shot-learning.html)|
 
+<hr>
+
 | Machine Learning using Scikit-Learn | 
 |-------------------------------------|
 |[Introduction](http://www.appliedprogramming.net/machine-learning/introduction.html)|
 |[Getting Started](http://www.appliedprogramming.net/machine-learning/getting-started.html)|
 
+
+<hr>
 
 | Classification | 
 |-------------------------------------|
@@ -26,11 +32,15 @@ This repository contains machine learning notebooks from my website [appliedprog
 |[Advanced Scikit-Learn Classification Techniques](http://www.appliedprogramming.net/machine-learning/advanced-sklearn-classification.html)|
 
 
+<hr>
+
 | Regression | 
 |---------------------------------|
 |[Predicting Electrical Energy Output with Regression Analysis](http://www.appliedprogramming.net/machine-learning/predicting-electrical-energy-output-with-regression.html)|
 |[Air Quality Prediction](http://www.appliedprogramming.net/machine-learning/air-quality-prediction.html)|
 |[Advanced Scikit-Learn Regression Techniques](http://www.appliedprogramming.net/machine-learning/advanced-sklearn-regression.html)|
+
+<hr>
 
 
 | Clustering | 
@@ -39,12 +49,16 @@ This repository contains machine learning notebooks from my website [appliedprog
 |[Seeds Clustering](http://www.appliedprogramming.net/machine-learning/seeds-clustering.html)|
 |[Applying K-Means for Image Quantization](http://www.appliedprogramming.net/machine-learning/applying-kmeans-for-image-quantization.html)|
 
+<hr>
+
 
 | Ensemble Learning | 
 |---------------------------------|
 |[Ensemble Learning to Classify Patients with Heart Disease](http://www.appliedprogramming.net/machine-learning/ensemble-learning-to-classify-heart-patients.html)|
 |[OnlineNewsPopularity Classification using Ensembles](http://www.appliedprogramming.net/machine-learning/online-news-popularity-classification.html)|
 |[Classifying Default of Credit Card Clients](http://www.appliedprogramming.net/machine-learning/classifying-default-of-creditcard-clients.html)|
+
+<hr>
 
 
 | Examples | 
@@ -58,6 +72,8 @@ This repository contains machine learning notebooks from my website [appliedprog
 |[Connect4 Result Classification](http://www.appliedprogramming.net/machine-learning/connect4-result-classification.html)|
 |[Leaf Classification](http://www.appliedprogramming.net/machine-learning/leaf-classification.html)|
 |[Plants Clustering and Classification](http://www.appliedprogramming.net/machine-learning/plants-clustering.html)|
+
+<hr>
 
 
 | Machine Learning using GraphLab Create library | 
