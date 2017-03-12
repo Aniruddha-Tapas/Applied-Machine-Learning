@@ -4,7 +4,7 @@ This repository contains machine learning notebooks from my website [appliedprog
 
 <table >
     <thead>
-      <tr><th class="page-header"><h3><b>Deep Learning using TensorFlow</b></h3></th></tr>
+      <tr><h3><b>Deep Learning using TensorFlow</b></h3></tr>
     </thead>
     <tbody>
       
@@ -67,7 +67,7 @@ This repository contains machine learning notebooks from my website [appliedprog
     </tbody>
  
     <thead>
-      <tr><th class="page-header"><h3><b>Machine Learning using Scikit-Learn</b></h3></th></tr>
+      <tr><h3><b>Machine Learning using Scikit-Learn</b></h3></tr>
     </thead>
     <tbody>
       
@@ -102,7 +102,7 @@ This repository contains machine learning notebooks from my website [appliedprog
     </tbody>
  
     <thead>
-      <tr><th class="page-header"><h3><b>Classification</b></h3></th></tr>
+      <tr><h3><b>Classification</b></h3></tr>
     </thead>
     <tbody>
       
@@ -206,7 +206,7 @@ This repository contains machine learning notebooks from my website [appliedprog
     </tbody>
  
     <thead>
-      <tr><th class="page-header"><h3><b>Regression</b></h3></th></tr>
+      <tr><h3><b>Regression</b></h3></tr>
     </thead>
     <tbody>
       
@@ -254,7 +254,7 @@ This repository contains machine learning notebooks from my website [appliedprog
     </tbody>
  
     <thead>
-      <tr><th class="page-header"><h3><b>Clustering</b></h3></th></tr>
+      <tr><h3><b>Clustering</b></h3></tr>
     </thead>
     <tbody>
       
@@ -301,7 +301,7 @@ This repository contains machine learning notebooks from my website [appliedprog
     </tbody>
  
     <thead>
-      <tr><th class="page-header"><h3><b>Ensemble Learning</b></h3></th></tr>
+      <tr><h3><b>Ensemble Learning</b></h3></tr>
     </thead>
     <tbody>
       
@@ -348,7 +348,7 @@ This repository contains machine learning notebooks from my website [appliedprog
     </tbody>
  
     <thead>
-      <tr><th class="page-header"><h3><b>Examples</b></h3></th></tr>
+      <tr><h3><b>Examples</b></h3></tr>
     </thead>
     <tbody>
 		
@@ -477,7 +477,7 @@ This repository contains machine learning notebooks from my website [appliedprog
 		</tbody>
 	  
 		<thead>
-		  <tr><th class="page-header"><h3><b>Machine Learning using GraphLab Create library</b></h3></th></tr>
+		  <tr><h3><b>Machine Learning using GraphLab Create library</b></h3></tr>
 		</thead>
 		<tbody>
 	  
@@ -543,6 +543,3 @@ This repository contains machine learning notebooks from my website [appliedprog
 
 <hr>
 
-
-
-<hr>
