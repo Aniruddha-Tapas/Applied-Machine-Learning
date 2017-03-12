@@ -84,3 +84,7 @@ This repository contains machine learning notebooks from my website [appliedprog
 |[Document Retrieval from Wikipedia data](http://www.appliedprogramming.net/machine-learning/document-retrieval-from-wikipedia-data.html)|
 
 <hr>
+
+**NOTE:** Please feel free to send pull requests and help me improve the code base so that people who want to get into this fascinating field of ML and AI can get the best resources possible. :)
+
+<hr>
