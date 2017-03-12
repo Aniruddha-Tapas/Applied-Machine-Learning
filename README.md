@@ -2,544 +2,69 @@
 
 This repository contains machine learning notebooks from my website [appliedprogramming.net](http://www.appliedprogramming.net/machine-learning/home.html). The examples in the repo contain the explantory theory about the different algorithms used and the necessary preprocessing steps to clean, visualize and analyse the data. The datasets for the examples are taken from the [UCI Machine Learning repository](archive.ics.uci.edu/ml/). 
 
-<table >
-    <thead>
-      <tr><th><h3><b>Deep Learning using TensorFlow</b></h3></th></tr>
-    </thead>
-    <tbody>
-      
-      
-        <tr>
-          <td>
-            
-              <a  href="introductiontotensorflow.html">
-            
-              
-              Introduction to TensorFlow
-            
-              </a>
-            
-          </td>
-        </tr>
-		
-		<tr>
-          <td>
-            
-              <a  href="transferlearning.html">
-            
-              
-              Transfer Learning for Classifying Animal images
-            
-              </a>
-            
-          </td>
-        </tr>
-		
-		
-        <tr>
-          <td>
-            
-              <a  href="speechrecognition.html">
-            
-              
-              Speech Recognition of Digits
-            
-              </a>
-            
-          </td>
-        </tr>
-		
-		<tr>
-          <td>
-            
-              <a  href="one-shot-learning.html">
-            
-              
-              One Shot Learning to Classify Omniglot data
-            
-              </a>
-            
-          </td>
-        </tr>
-     
-      
-	  <hr>
-    </tbody>
- 
-    <thead>
-      <tr><th><h3><b>Machine Learning using Scikit-Learn</b></h3></th></tr>
-    </thead>
-    <tbody>
-      
-      
-        <tr>
-          <td>
-            
-              <a  href="introduction.html">
-            
-              
-              Introduction
-            
-              </a>
-            
-          </td>
-        </tr>
-		
-		<tr>
-          <td>
-            
-              <a  href="getting-started.html">
-            
-              
-              Getting Started
-            
-              </a>
-            
-          </td>
-        </tr>
-		
-		  <hr>
-    </tbody>
- 
-    <thead>
-      <tr><th><h3><b>Classification</b></h3></th></tr>
-    </thead>
-    <tbody>
-      
-        <tr>
-          <td>
-            
-              <a  href="logistic-regression-for-banknote-authentication.html">
-            
-              
-              Logistic Regression For Banknote Authentication
-            
-              </a>
-            
-          </td>
-        </tr>
-      
-        <tr>
-          <td>
-            
-              <a  href="svm-for-energy-efficiency-classification.html">
-            
-              
-              Support Vector Machines for Energy-Efficiency Classification
-            
-              </a>
-            
-          </td>
-        </tr>
-		
-        <tr>
-          <td>
-            
-              <a  href="detecting-faces-with-svm.html">
-            
-              
-              Detecting Faces wearing glasses with Support Vector Machines
-            
-              </a>
-            
-          </td>
-        </tr>
-		
-		<tr>
-          <td>
-            
-              <a  href="car-evaluation-using-decision-trees.html">
-            
-              
-              
-				Car Evaluation using Decision trees and Random Forests
-            
-              </a>
-            
-          </td>
-        </tr>
-		
-		<tr>
-          <td>
-            
-              <a  href="zoo-animals-classification-using-naive-bayes.html">
-            
-              
-              Zoo Animal Classification using Naive Bayes
+| Deep Learning using TensorFlow | 
+|--------------------------------|
+|[Introduction to TensorFlow](http://www.appliedprogramming.net/machine-learning/introductiontotensorflow.html)|
+|[Transfer Learning for Classifying Animal images](http://www.appliedprogramming.net/machine-learning/transferlearning.html)|
+|[Speech Recognition of Digits](http://www.appliedprogramming.net/machine-learning/speechrecognition.html)|
+|[One Shot Learning to Classify Omniglot data](http://www.appliedprogramming.net/machine-learning/one-shot-learning.html)|
 
-            
-              </a>
-            
-          </td>
-        </tr>
-		
-		<tr>
-          <td>
-            
-              <a  href="classifying-ionosphere-structure-using-knn.html">
-            
-              
-              Classifying Ionosphere structure using K nearest neigbours
+| Machine Learning using Scikit-Learn | 
+|-------------------------------------|
+|[Introduction](http://www.appliedprogramming.net/machine-learning/introduction.html)|
+|[Getting Started](http://www.appliedprogramming.net/machine-learning/getting-started.html)|
 
-            
-              </a>
-            
-          </td>
-        </tr>
-	
-      
-        <tr>
-          <td>
-            
-              <a  href="advanced-sklearn-classification.html">
-            
-              
-              Advanced Scikit-Learn Classification Techniques
 
-            
-              </a>
-            
-          </td>
-        </tr>
-		
-		<hr>
-    </tbody>
- 
-    <thead>
-      <tr><th><h3><b>Regression</b></h3></th></tr>
-    </thead>
-    <tbody>
-      
-      
-        <tr>
-          <td>
-            
-              <a  href="predicting-electrical-energy-output-with-regression.html">
-            
-              
-              Predicting Electrical Energy Output with Regression Analysis
-            
-              </a>
-            
-          </td>
-        </tr>
-      
-        <tr>
-          <td>
-            
-              <a  href="air-quality-prediction.html">
-            
-              
-              Air Quality Prediction
-            
-              </a>
-            
-          </td>
-        </tr>
-      
-        <tr>
-          <td>
-            
-              <a  href="advanced-sklearn-regression.html">
-            
-              
-              Advanced Scikit-Learn Regression Techniques
-            
-              </a>
-            
-          </td>
-        </tr>
-		
-		<hr>
-    </tbody>
- 
-    <thead>
-      <tr><th><h3><b>Clustering</b></h3></th></tr>
-    </thead>
-    <tbody>
-      
-        <tr>
-          <td>
-            
-              <a  href="customer-segmentation-for-market-analysis.html">
-            
-              
-              Customer Segmentation For Market Analysis
-            
-              </a>
-            
-          </td>
-        </tr>
-      
-        <tr>
-          <td>
-            
-              <a  href="seeds-clustering.html">
-            
-              
-              Seeds Clustering
-            
-              </a>
-            
-          </td>
-        </tr>
-		
-		<tr>
-          <td>
-            
-              <a  href="applying-kmeans-for-image-quantization.html">
-            
-              
-              Applying K-Means for Image Quantization
-            
-              </a>
-            
-          </td>
-        </tr>
-		
-		<hr>
-    </tbody>
- 
-    <thead>
-      <tr><th><h3><b>Ensemble Learning</b></h3></th></tr>
-    </thead>
-    <tbody>
-      
-        <tr>
-          <td>
-            
-              <a  href="ensemble-learning-to-classify-heart-patients.html">
-            
-              
-              Ensemble Learning to Classify Patients with Heart Disease
-            
-              </a>
-            
-          </td>
-        </tr>
-      
-        <tr>
-          <td>
-            
-              <a  href="online-news-popularity-classification.html">
-            
-              
-              OnlineNewsPopularity Classification using Ensembles
-            
-              </a>
-            
-          </td>
-        </tr>
-      
-        <tr>
-          <td>
-            
-              <a  href="classifying-default-of-creditcard-clients.html">
-            
-              
-              Classifying Default of Credit Card Clients
-            
-              </a>
-            
-          </td>
-        </tr>
-		
-		<hr>
-    </tbody>
- 
-    <thead>
-      <tr><th><h3><b>Examples</b></h3></th></tr>
-    </thead>
-    <tbody>
-		
-		<tr>
-          <td>
-            
-              <a  href="adult-income-classification.html">
-            
-              
-              Adult Income Classification
-            
-              </a>
-            
-          </td>
-        </tr>
-      
-       <tr>
-          <td>
-            
-              <a  href="gesture-phase-detection.html">
-            
-              
-              Gesture Phase Detection
-            
-              </a>
-            
-          </td>
-        </tr>
-		
-		<tr>
-          <td>
-            
-              <a  href="student-grade-evaluation.html">
-            
-              
-              Student Grade Evaluation
-            
-              </a>
-            
-          </td>
-        </tr>
-		
-		<tr>
-          <td>
-            
-              <a  href="lenses-classification.html">
-            
-              
-              Lenses Data Classification and Clustering
-            
-              </a>
-            
-          </td>
-        </tr>
-      
-        <tr>
-          <td>
-            
-              <a  href="liver-patient-classification.html">
-            
-              
-              Liver Patient Classification
-            
-              </a>
-            
-          </td>
-        </tr>
-  
-		
-      
-        <tr>
-          <td>
-            
-              <a  href="tictactoe-move-classification.html">
-            
-              
-              TicTacToe Move Classification
-            
-              </a>
-            
-          </td>
-        </tr>
-      
-        <tr>
-          <td>
-            
-              <a  href="connect4-result-classification.html">
-            
-              
-              Connect4 Result Classification
-            
-              </a>
-            
-          </td>
-        </tr>
-		
-		<tr>
-          <td>
-            
-              <a  href="leaf-classification.html">
-            
-              
-              Leaf Classification
-            
-              </a>
-            
-          </td>
-        </tr>
-      
-	
-        <tr>
-          <td>
-            
-              <a  href="plants-clustering.html">
-            
-              
-              Plants Clustering and Classification
-            
-              </a>
-            
-          </td>
-        </tr>
-      
-		
-			  <hr>
-		</tbody>
-	  
-		<thead>
-		  <tr><th><h3><b>Machine Learning using GraphLab Create library</b></h3></th></tr>
-		</thead>
-		<tbody>
-	  
-      
-        <tr>
-          <td>
-            
-              <a  href="predicting-house-prices-using-graphlab-create.html">
-            
-              
-              Predicting House Prices using GraphLab Create
-            
-              </a>
-            
-          </td>
-        </tr>
-      
-        <tr>
-          <td>
-            
-              <a  href="predicting-sentiment-from-product-reviews.html">
-            
-              
-              Predicting sentiment from product reviews
-            
-              </a>
-            
-          </td>
-        </tr>
-      
-        <tr>
-          <td>
-            
-              <a  href="building-a-song-recommender.html">
-            
-              
-              Building a song recommender
-            
-              </a>
-            
-          </td>
-        </tr>
-      
-        <tr>
-          <td>
-            
-              <a  href="document-retrieval-from-wikipedia-data.html">
-            
-              
-              Document Retrieval from Wikipedia data
-            
-              </a>
-            
-          </td>
-        </tr>
-      
-       
-       
-      
-	  <hr>
-    </tbody>
-  </table>
+| Classification | 
+|-------------------------------------|
+|[Logistic Regression For Banknote Authentication](http://www.appliedprogramming.net/machine-learning/logistic-regression-for-banknote-authentication.html)|
+|[Support Vector Machines for Energy-Efficiency Classification](http://www.appliedprogramming.net/machine-learning/svm-for-energy-efficiency-classification.html)|
+|[Detecting Faces wearing glasses with Support Vector Machines](http://www.appliedprogramming.net/machine-learning/detecting-faces-with-svm.html)|
+|[Car Evaluation using Decision trees and Random Forests](http://www.appliedprogramming.net/machine-learning/car-evaluation-using-decision-trees.html)|
+|[Zoo Animal Classification using Naive Bayes](http://www.appliedprogramming.net/machine-learning/zoo-animals-classification-using-naive-bayes.html)|
+|[Classifying Ionosphere structure using K nearest neigbours](http://www.appliedprogramming.net/machine-learning/classifying-ionosphere-structure-using-knn.html)|
+|[Advanced Scikit-Learn Classification Techniques](http://www.appliedprogramming.net/machine-learning/advanced-sklearn-classification.html)|
+
+
+| Regression | 
+|---------------------------------|
+|[Predicting Electrical Energy Output with Regression Analysis](http://www.appliedprogramming.net/machine-learning/predicting-electrical-energy-output-with-regression.html)|
+|[Air Quality Prediction](http://www.appliedprogramming.net/machine-learning/air-quality-prediction.html)|
+|[Advanced Scikit-Learn Regression Techniques](http://www.appliedprogramming.net/machine-learning/advanced-sklearn-regression.html)|
+
+
+| Clustering | 
+|---------------------------------|
+|[Customer Segmentation For Market Analysis](http://www.appliedprogramming.net/machine-learning/customer-segmentation-for-market-analysis.html)|
+|[Seeds Clustering](http://www.appliedprogramming.net/machine-learning/seeds-clustering.html)|
+|[Applying K-Means for Image Quantization](http://www.appliedprogramming.net/machine-learning/applying-kmeans-for-image-quantization.html)|
+
+
+| Ensemble Learning | 
+|---------------------------------|
+|[Ensemble Learning to Classify Patients with Heart Disease](http://www.appliedprogramming.net/machine-learning/ensemble-learning-to-classify-heart-patients.html)|
+|[OnlineNewsPopularity Classification using Ensembles](http://www.appliedprogramming.net/machine-learning/online-news-popularity-classification.html)|
+|[Classifying Default of Credit Card Clients](http://www.appliedprogramming.net/machine-learning/classifying-default-of-creditcard-clients.html)|
+
+
+| Examples | 
+|---------------------------------|
+|[Adult Income Classification](http://www.appliedprogramming.net/machine-learning/adult-income-classification.html)|
+|[Gesture Phase Detection](http://www.appliedprogramming.net/machine-learning/gesture-phase-detection.html)|
+|[Student Grade Evaluation](http://www.appliedprogramming.net/machine-learning/student-grade-evaluation.html)|
+|[Lenses Data Classification and Clustering](http://www.appliedprogramming.net/machine-learning/lenses-classification.html)|
+|[Liver Patient Classification](http://www.appliedprogramming.net/machine-learning/liver-patient-classification.html)|
+|[TicTacToe Move Classification](http://www.appliedprogramming.net/machine-learning/tictactoe-move-classification.html)|
+|[Connect4 Result Classification](http://www.appliedprogramming.net/machine-learning/connect4-result-classification.html)|
+|[Leaf Classification](http://www.appliedprogramming.net/machine-learning/leaf-classification.html)|
+|[Plants Clustering and Classification](http://www.appliedprogramming.net/machine-learning/plants-clustering.html)|
+
+
+| Machine Learning using GraphLab Create library | 
+|---------------------------------|
+|[Predicting House Prices using GraphLab Create](http://www.appliedprogramming.net/machine-learning/predicting-house-prices-using-graphlab-create.html)|
+|[Predicting sentiment from product reviews](http://www.appliedprogramming.net/machine-learning/predicting-sentiment-from-product-reviews.html)|
+|[Building a song recommender](http://www.appliedprogramming.net/machine-learning/building-a-song-recommender.html)|
+|[Document Retrieval from Wikipedia data](http://www.appliedprogramming.net/machine-learning/document-retrieval-from-wikipedia-data.html)|
 
 <hr>
-
