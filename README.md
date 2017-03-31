@@ -10,6 +10,7 @@ This repository contains machine learning notebooks from my website [appliedprog
 |[Transfer Learning for Classifying Animal images](http://www.appliedprogramming.net/machine-learning/transferlearning.html)|
 |[Speech Recognition of Digits](http://www.appliedprogramming.net/machine-learning/speechrecognition.html)|
 |[One Shot Learning to Classify Omniglot data](http://www.appliedprogramming.net/machine-learning/one-shot-learning.html)|
+|[How to use SyntaxNet](http://www.appliedprogramming.net/machine-learning/syntaxnet.html)|
 
 <hr>
 
