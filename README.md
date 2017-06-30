@@ -1,6 +1,6 @@
 # Applied Machine Learning
 
-This repository contains machine learning notebooks from my website [appliedprogramming.net](http://www.appliedprogramming.net/machine-learning/home.html). The examples in the repo contain the explantory theory about the different algorithms used and the necessary preprocessing steps to clean, visualize and analyse the data. The datasets for most of the examples are taken from the [UCI Machine Learning repository](archive.ics.uci.edu/ml/). 
+This repository contains machine learning notebooks from my website [appliedprogramming.net](http://www.appliedprogramming.net/machine-learning/home.html). The examples and projects in the repo contain the explantory theory about the different algorithms used and the necessary preprocessing steps to clean, visualize and analyse the data. The datasets for most of the examples are taken from the [UCI Machine Learning repository](archive.ics.uci.edu/ml/). 
 
 <hr>
 
